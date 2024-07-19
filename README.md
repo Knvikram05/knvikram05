@@ -66,10 +66,10 @@
 I am a passionate MERN stack developer with a strong focus on building efficient and scalable web applications. With a keen interest in continuous learning and problem-solving, I strive to create impactful solutions using modern technologies.
 
 - 🌱 Currently learning **advanced MERN stack techniques**
-- 💼 Intern at **Code Alpha**
+- 💼 Intern at **Envidox Solutions**
 - 🏆 Achievements: **LeetCode badges for consistency and problem-solving**
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **knvikram2004@gmail.com**
 
 ---
 
