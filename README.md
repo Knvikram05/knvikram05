@@ -20,14 +20,14 @@
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
-<h3 align="center">
+<h2 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://alsiam.com">VIKRAM</a></b>
         </samp>
-</h3>
+</h2>
 
 
-<p align="center"> 
+<h2 align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=knvikram">「 Google Me 」</a>
     <br>
@@ -35,7 +35,7 @@
     <br>
     <br>
   </samp>
-</p>
+</h2>
 
 <p align="center">
 <!--  <a href="https://alsiam.com" target="blank">
