@@ -1,8 +1,12 @@
-<h1 align="center">Hi there, I'm Vikram 👋</h1>
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Coding Animation">
 </p>
 
 ---
@@ -74,5 +78,8 @@ A web app to manage your personal book collection with a beautiful UI.
 
 ---
 
-*This profile README was crafted with love for coding and a passion for learning!*
+<p align="center">
+  <img src="https://media.giphy.com/media/l46Cyn4lA4vL8c0kE/giphy.gif" width="300" alt="Thanks for Visiting">
+</p>
 
+*This profile README was crafted with love for coding and a passion for learning!*
