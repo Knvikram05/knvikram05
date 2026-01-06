@@ -63,7 +63,7 @@ I am a passionate MERN stack developer with a strong focus on building efficient
 - 🌱 Currently learning **advanced MERN stack techniques**
 - 💼 Software Engineer at **Pumo Technovation**
 - 🏆 Achievements: **LeetCode badges for consistency and problem-solving**
-- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**
+- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB ,Python,Dart**
 - 📫 Reach me at **knvikram2004@gmail.com**
 
 ---
